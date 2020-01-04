@@ -1,1 +1,4 @@
-别看我，一切尽在代码中
+npm install 
+ 
+
+npm run serve
